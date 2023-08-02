@@ -15,6 +15,19 @@ Here are some ideas to get you started:
 # yaruneki's home
 
 <img align="left" src="https://64.media.tumblr.com/tumblr_mbxcti41Bl1rj490ro1_250.gif" width="350" height="auto" style="padding: 0 15px;">
-
-## "He'i ha'e rayh sureh, Re'i re'a-re'a re'i areh. Jhitu nu khetti no ahu reh'eh, Su tu'aku re'i rayh kureh. He'i fa eda re'i jhu tu'yu rah!"
+<table>
+  <caption hidden>Marik Quote</caption>
+  <tr>
+    <th hidden>Quote and comment</th>
+  </tr>
+  <tr>
+    <td style="padding: 0 15px">
+      ## "He'i ha'e rayh sureh, <br>
+      ##  Re'i re'a-re'a re'i areh. <br>
+      ##  Jhitu nu khetti no ahu reh'eh, <br>
+      ##  Su tu'aku re'i rayh kureh. <br>
+      ##  He'i fa eda re'i jhu tu'yu rah!" <br>
+    </td>
+  </tr>
+</table>
 
