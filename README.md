@@ -23,7 +23,7 @@
 </div>
 ‎___‎
 <br>
-## Here are the other tools
+### Here are the other tools
 <div>
   <img alt="Adobe Photoshop" src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white&style=flat-square" />
   <img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white&style=flat-square" />
