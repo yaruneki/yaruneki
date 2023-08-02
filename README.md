@@ -14,11 +14,7 @@ Here are some ideas to get you started:
 -->
 # yaruneki's home
 
-<<<<<<< HEAD
 <img src="https://64.media.tumblr.com/tumblr_mbxcti41Bl1rj490ro1_250.gif" width="350" height="auto" style="padding-left: 15px;">
 
 ## "He'i ha'e rayh sureh, Re'i re'a-re'a re'i areh. Jhitu nu khetti no ahu reh'eh, Su tu'aku re'i rayh kureh. He'i fa eda re'i jhu tu'yu rah!"
-=======
-<img src="https://64.media.tumblr.com/tumblr_mbxcti41Bl1rj490ro1_250.gif" width="500" height="auto" style="padding-left: 15px;">
->>>>>>> 1bed932a385209bdc213b9b87080d98cd75fad6e
 
