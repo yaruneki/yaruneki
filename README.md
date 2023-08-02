@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 # yaruneki's home
 
 <img align="left" src="https://64.media.tumblr.com/tumblr_mbxcti41Bl1rj490ro1_250.gif" width="350" height="auto" style="padding: 0 15px;">
-<table>
-  <caption hidden>Marik Quote</caption>
+<table style="border: none;">
+  <caption style="display: none;">Marik Quote</caption>
   <tr>
-    <th hidden>Quote and comment</th>
+    <th style="display: none;">Quote and comment</th>
   </tr>
   <tr>
     <td style="padding: 0 15px">
