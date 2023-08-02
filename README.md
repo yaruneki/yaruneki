@@ -12,6 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1>yaruneki's home</h1>
+# yaruneki's home
 
----
+<img src="https://64.media.tumblr.com/tumblr_mbxcti41Bl1rj490ro1_250.gif" width="150" height="auto" style="padding-left: 15px;">
+
