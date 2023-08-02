@@ -12,6 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-**yaruneki's home**
+<h1>yaruneki's home</h1>
 
 ---
