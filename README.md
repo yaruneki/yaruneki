@@ -14,13 +14,6 @@ Here are some ideas to get you started:
 -->
 # yaruneki's home
 
-<img align="left" src="https://64.media.tumblr.com/tumblr_mbxcti41Bl1rj490ro1_250.gif" width="350" height="auto" style="padding: 0 15px;">
-<pre style="padding-left: 1005px; font-size: 3em;">
-    "He'i ha'e rayh sureh, <br>
-     Re'i re'a-re'a re'i areh. <br>
-     Jhitu nu khetti no ahu reh'eh, <br>
-     Su tu'aku re'i rayh kureh. <br>
-     He'i fa eda re'i jhu tu'yu rah!" <br>
-</pre>
-
+<img align="left" src="marik.gif" width="auto" height="200" style="padding: 0 15px;">
+<img align="right" src="quote_and_comment.png" width="auto" height="200" style="padding: 0 15px;">
 
