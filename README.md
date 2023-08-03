@@ -50,12 +50,10 @@
 
 ### Links
 
-<a href="https://discordapp.com/users/202172195156393985">
-  <img align="left" width="50px" src="[https://i.imgur.com/ANrBXqL.png](https://www.pngall.com/wp-content/uploads/13/Discord-Logo-PNG-Picture.png)" style="padding-right: 10px;" />
+<a href="https://discordapp.com/users/528235218600067083">
+  <img align="left" width="50px" src="https://www.pngall.com/wp-content/uploads/13/Discord-Logo-PNG-Picture.png" style="padding-right: 10px;" />
 </a>
 
-
-
-<a href="https://steamcommunity.com/id/redyz13/">
-  <img align="left" width="50px" src="https://i.imgur.com/OYV8IpL.png"/>
+<a href="https://steamcommunity.com/id/yaruneki/">
+  <img align="left" width="50px" src="https://cdn.iconscout.com/icon/free/png-256/free-steam-4069942-3365461.png?f=webp"/>
 </a>
